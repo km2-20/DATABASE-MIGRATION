@@ -80,7 +80,7 @@ Full script is available in `migration.sql`.
 
 ### Record Count Verification
 
-![Count Verification](image4.png)
+<img width="1055" height="591" alt="Image" src="https://github.com/user-attachments/assets/bbe77c82-4d07-4d5c-91c6-28e7fece1273" />
 
 ---
 
