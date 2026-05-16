@@ -67,9 +67,8 @@ Full script is available in `migration.sql`.
 
 ### Students Table Output
 
-<!-- Drag & drop your screenshot here on GitHub -->
+<img width="1061" height="607" alt="Image" src="https://github.com/user-attachments/assets/7a0e0748-f001-4cee-b658-a4660900d674" />
 
-![Students Output](image1.png)
 
 ### Courses Table Output
 
