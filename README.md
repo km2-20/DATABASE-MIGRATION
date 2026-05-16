@@ -76,7 +76,7 @@ Full script is available in `migration.sql`.
 
 ### Results Table Output
 
-![Results Output](image3.png)
+<img width="1023" height="578" alt="Image" src="https://github.com/user-attachments/assets/f8e37d11-2d37-4edd-975d-88ac3706faf8" />
 
 ### Record Count Verification
 
