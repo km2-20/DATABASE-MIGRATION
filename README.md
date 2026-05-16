@@ -72,7 +72,7 @@ Full script is available in `migration.sql`.
 
 ### Courses Table Output
 
-![Courses Output](image2.png)
+<img width="1048" height="642" alt="Image" src="https://github.com/user-attachments/assets/a9a51c68-2409-4362-afb1-d696fbc4d0a4" />
 
 ### Results Table Output
 
